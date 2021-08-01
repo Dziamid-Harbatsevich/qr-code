@@ -180,3 +180,6 @@ Lock your dependencies for production and test your code when upgrading.
 
 This bundle is under the MIT license. For the full copyright and license
 information please view the LICENSE file that was distributed with this source code.
+    
+## Snippets
+* [Source 1](https://ourcodeworld.com/articles/read/225/how-to-generate-qr-code-with-logo-easily-in-php-automatically)
